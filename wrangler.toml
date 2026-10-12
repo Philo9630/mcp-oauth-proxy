@@ -1,7 +1,11 @@
 name = "mcp-oauth-proxy"
 main = "src/index.ts"
 compatibility_date = "2025-04-01"
+compatibility_flags = ["global_fetch_strictly_public"]
 
+[[kv_namespaces]]
+binding = "KV"
+id = "00b25654dacf4b07827a291caf8715b2"
 [[kv_namespaces]]
 binding = "KV"
 id = "00b25654dacf4b07827a291caf8715b2"
