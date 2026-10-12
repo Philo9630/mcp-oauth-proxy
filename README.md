@@ -1,4 +1,5 @@
 # mcp-oauth-proxy
+<!-- Cloudflare deployment verification -->
 
 An OAuth 2.1 facade proxy for Bearer / header-auth MCP servers, running on Cloudflare Workers.
 
