@@ -1,9 +1,6 @@
 name = "mcp-oauth-proxy"
 main = "src/index.ts"
 compatibility_date = "2025-04-01"
-name = "mcp-oauth-proxy"
-main = "src/index.ts"
-compatibility_date = "2025-04-01"
 
 [[kv_namespaces]]
 binding = "KV"
