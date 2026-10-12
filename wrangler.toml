@@ -6,9 +6,6 @@ compatibility_flags = ["global_fetch_strictly_public"]
 [[kv_namespaces]]
 binding = "KV"
 id = "00b25654dacf4b07827a291caf8715b2"
-[[kv_namespaces]]
-binding = "KV"
-id = "00b25654dacf4b07827a291caf8715b2"
 
 # Create a KV namespace in the Cloudflare dashboard (or with
 #   wrangler kv namespace create KV
